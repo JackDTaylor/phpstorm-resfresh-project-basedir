@@ -1,5 +1,5 @@
 # phpstorm-resfresh-project-basedir
-A [Script Monkey](https://plugins.jetbrains.com/plugin/3674-script-monkey) script to add a PHPStorm action to refresh project basedir.
+A [Script Monkey](https://plugins.jetbrains.com/plugin/3674-script-monkey) script that adds a PHPStorm action to refresh project basedir.
 
 ### How does it work?
 After the action call, it refreshes the project 7 times every 500 ms.
